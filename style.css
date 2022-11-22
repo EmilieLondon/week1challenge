@@ -1,3 +1,5 @@
+/* Did not spot any changes needed in the first 5 sections below */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -24,6 +26,8 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Renamed header section instead of div */
+
 header section {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,6 +44,8 @@ header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
+/* No changes spotted in below 7 elements */
 
 a {
     color: #ffffff;
@@ -86,6 +92,8 @@ p {
     background-color: #2589bd;
 }
 
+/* Created class benefit */
+
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,6 +109,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Created class services */
 
 .services {
     margin-bottom: 20px;
@@ -119,6 +129,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* No changes spotted in footer */
 
 footer {
     padding: 30px;
