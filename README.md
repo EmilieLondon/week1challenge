@@ -10,7 +10,8 @@ I learned how all the elements interact together.
 
 Find out about services offered by Horiseon and how they can offer many benefits to your business.
 
-![alt text](assets/images/screenshot.png "Horiseon")
+![alt text]
+(https://raw.github.com/EmilieLondon/week1challenge/main/assets/images/screenshot.png "Horiseon")
 
 ## License
 
