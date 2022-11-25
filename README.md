@@ -8,13 +8,9 @@ I learned how all the elements interact together.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Find out about services offered by Horiseon and how they can offer many benefits to your business.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![alt text](assets/images/screenshot.png "Horiseon")
 
 ## License
 
