@@ -4,11 +4,11 @@
 
 I am practicing what I learned in the first week of the bootcamp.
 I have improved the code for this webpage and made sure it was accessible.
-I learned how all the elements interact together.
+I learned how to use semantic HTML.
 
 ## Usage
 
-Find out about services offered by Horiseon and how they can offer many benefits to your business.
+Playing around with a beginner webpage to understand how HTML and CSS interact with each other.
 
 https://emilielondon.github.io/week1challenge/
 
